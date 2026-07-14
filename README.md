@@ -1,1 +1,1 @@
-# IPBR-Image-Classifier
+# Image-Classifier-Project
